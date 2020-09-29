@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:4000/xinchao/</loc>
+    
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/c-cpp/index.html</loc>
+    
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/about/index.html</loc>
+    
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/duongdan/</loc>
     
-    <lastmod>2020-09-24</lastmod>
+    <lastmod>2020-09-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/404/index.html</loc>
+    
+    <lastmod>2020-09-28</lastmod>
     
   </url>
   
@@ -15,31 +43,10 @@
     
   </url>
   
-  <url>
-    <loc>http://localhost:4000/a/</loc>
-    
-    <lastmod>2020-09-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/about/index.html</loc>
-    
-    <lastmod>2020-09-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/hello-world/</loc>
-    
-    <lastmod>2020-09-24</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2020-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,7 +54,7 @@
   
   <url>
     <loc>http://localhost:4000/tags/duongdan/</loc>
-    <lastmod>2020-09-28</lastmod>
+    <lastmod>2020-09-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
